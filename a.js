@@ -10,6 +10,6 @@ function getSame(arr) {
 
 var a = 2
 
-var b = 4
+var b = 5
 
 console.log(getSame([1,2,3,4,5,6,7,3,2,2,2,4,5,3]));
