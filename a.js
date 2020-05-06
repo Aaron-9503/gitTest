@@ -3,7 +3,11 @@ function getSame(arr) {
         return false
     }
     return arr.filter((n, index) => {
-        // console.log(arr.indexOf(n));
+        console.log(arr.indexOf(n));
+        console.log(arr.indexOf(n));
+
+        console.log(arr.indexOf(n));
+
         return arr.indexOf(n) === index
     })
 }
