@@ -4,17 +4,28 @@ function getSame(arr) {
     }
     return arr.filter((n, index) => {
         console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
-        console.log(arr.indexOf(n));
+
         console.log(arr.indexOf(n));
         console.log(arr.indexOf(n));
 
         console.log(arr.indexOf(n));
 
+        console.log(arr.indexOf(n));
+
+        console.log(arr.indexOf(n));
+
+        console.log(arr.indexOf(n));
+        if(4>5){
+            console.log(arr.indexOf(n));
+        }
+
+
+
+
+        console.log(arr.indexOf(n));
+
+
+        console.log(arr.indexOf(n));
         return arr.indexOf(n) ===100000
     })
 }
