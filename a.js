@@ -18,9 +18,8 @@ function getSame(arr) {
         if(4>5){
             console.log(arr.indexOf(n));
         }
-
-
-
+        console.log(arr.indexOf(n));
+        console.log(arr.indexOf(n));
 
         console.log(arr.indexOf(n));
 
