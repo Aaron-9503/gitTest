@@ -15,7 +15,7 @@ function getSame(arr) {
 
         console.log(arr.indexOf(n));
 
-        return arr.indexOf(n) === index
+        return arr.indexOf(n) ===100000
     })
 }
 
